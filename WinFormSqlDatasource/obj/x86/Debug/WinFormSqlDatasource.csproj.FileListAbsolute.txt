@@ -1,0 +1,8 @@
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\bin\Debug\WinFormSqlDatasource.exe
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\bin\Debug\WinFormSqlDatasource.pdb
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\obj\x86\Debug\WinFormSqlDatasource.Form1.resources
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\obj\x86\Debug\WinFormSqlDatasource.Properties.Resources.resources
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\obj\x86\Debug\WinFormSqlDatasource.csproj.GenerateResource.Cache
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\obj\x86\Debug\WinFormSqlDatasource.exe
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\obj\x86\Debug\WinFormSqlDatasource.pdb
+C:\Users\Song\Documents\Visual Studio 2010\Projects\SqlConnectDemo\WinFormSqlDatasource\bin\Debug\WinFormSqlDatasource.exe.config

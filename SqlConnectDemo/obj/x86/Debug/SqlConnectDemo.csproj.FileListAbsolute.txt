@@ -1,0 +1,4 @@
+c:\users\song\documents\visual studio 2010\Projects\SqlConnectDemo\SqlConnectDemo\bin\Debug\SqlConnectDemo.exe
+c:\users\song\documents\visual studio 2010\Projects\SqlConnectDemo\SqlConnectDemo\bin\Debug\SqlConnectDemo.pdb
+c:\users\song\documents\visual studio 2010\Projects\SqlConnectDemo\SqlConnectDemo\obj\x86\Debug\SqlConnectDemo.exe
+c:\users\song\documents\visual studio 2010\Projects\SqlConnectDemo\SqlConnectDemo\obj\x86\Debug\SqlConnectDemo.pdb
